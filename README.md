@@ -4,7 +4,7 @@ The main aim of this project is to count the number of cars and trucks which hav
 
 ## DEMO:
    
-https://user-images.githubusercontent.com/93523488/194366746-604a84ff-d9f4-4175-bcde-7d6292811cd3.mp4
+     https://user-images.githubusercontent.com/93523488/194366746-604a84ff-d9f4-4175-bcde-7d6292811cd3.mp4
 
 
 
