@@ -27,6 +27,7 @@ from yolov5.utils.plots import Annotator, colors
 from deep_sort.utils.parser import get_config
 from deep_sort.deep_sort import DeepSort
 
+
 FILE = Path(__file__).resolve()
 ROOT = FILE.parents[0]  # yolov5 deepsort root directory
 if str(ROOT) not in sys.path:
