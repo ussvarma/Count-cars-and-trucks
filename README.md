@@ -19,7 +19,7 @@ Quick Install:
 ### step-2:
     python  track.py --source path/video
     
-Inferenced video will be saved in run/exp/
+Inferenced video will be saved in run/exp/ folder
 
 
     
