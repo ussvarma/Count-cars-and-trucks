@@ -18,6 +18,8 @@ Quick Install:
 ### step-1:
     git clone https://github.com/ussvarma/Count-cars-and-trucks.git
 ### step-2:
+    pip intall -r requirements.txt
+### step-3:
     python  track.py --source path/video
     
 Inferenced video will be saved in run/exp/ folder
